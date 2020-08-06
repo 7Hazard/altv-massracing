@@ -1,0 +1,10 @@
+
+*.log
+
+cache/
+
+.gradle
+
+.iws
+
+build
